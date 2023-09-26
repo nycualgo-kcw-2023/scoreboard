@@ -1,0 +1,35 @@
+[
+    {
+        "user": "5607d3539260fe50de9ab71070ed389f",
+        "task": "A",
+        "time": 1695062167,
+        "key": "333725",
+        "token": false,
+        "score": 75,
+        "extra": [
+            "75"
+        ]
+    },
+    {
+        "user": "5607d3539260fe50de9ab71070ed389f",
+        "task": "A",
+        "time": 1695062223,
+        "key": "333726",
+        "token": false,
+        "score": 75,
+        "extra": [
+            "75"
+        ]
+    },
+    {
+        "user": "5607d3539260fe50de9ab71070ed389f",
+        "task": "A",
+        "time": 1695062278,
+        "key": "333727",
+        "token": false,
+        "score": 100,
+        "extra": [
+            "100"
+        ]
+    }
+]

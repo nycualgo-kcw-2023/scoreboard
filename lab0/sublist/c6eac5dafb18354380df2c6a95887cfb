@@ -1,0 +1,112 @@
+[
+    {
+        "user": "c6eac5dafb18354380df2c6a95887cfb",
+        "task": "A",
+        "time": 1695190279,
+        "key": "334261",
+        "token": false,
+        "score": 50,
+        "extra": [
+            "50"
+        ]
+    },
+    {
+        "user": "c6eac5dafb18354380df2c6a95887cfb",
+        "task": "A",
+        "time": 1695190341,
+        "key": "334263",
+        "token": false,
+        "score": 75,
+        "extra": [
+            "75"
+        ]
+    },
+    {
+        "user": "c6eac5dafb18354380df2c6a95887cfb",
+        "task": "A",
+        "time": 1695190384,
+        "key": "334265",
+        "token": false,
+        "score": 75,
+        "extra": [
+            "75"
+        ]
+    },
+    {
+        "user": "c6eac5dafb18354380df2c6a95887cfb",
+        "task": "A",
+        "time": 1695190426,
+        "key": "334266",
+        "token": false,
+        "score": 75,
+        "extra": [
+            "75"
+        ]
+    },
+    {
+        "user": "c6eac5dafb18354380df2c6a95887cfb",
+        "task": "B",
+        "time": 1695477243,
+        "key": "335359",
+        "token": false,
+        "score": 25,
+        "extra": [
+            "25"
+        ]
+    },
+    {
+        "user": "c6eac5dafb18354380df2c6a95887cfb",
+        "task": "B",
+        "time": 1695482613,
+        "key": "335397",
+        "token": false,
+        "score": 50,
+        "extra": [
+            "50"
+        ]
+    },
+    {
+        "user": "c6eac5dafb18354380df2c6a95887cfb",
+        "task": "B",
+        "time": 1695482889,
+        "key": "335398",
+        "token": false,
+        "score": 50,
+        "extra": [
+            "50"
+        ]
+    },
+    {
+        "user": "c6eac5dafb18354380df2c6a95887cfb",
+        "task": "C",
+        "time": 1695625214,
+        "key": "335846",
+        "token": false,
+        "score": 0,
+        "extra": [
+            "0"
+        ]
+    },
+    {
+        "user": "c6eac5dafb18354380df2c6a95887cfb",
+        "task": "C",
+        "time": 1695625602,
+        "key": "335850",
+        "token": false,
+        "score": 0,
+        "extra": [
+            "0"
+        ]
+    },
+    {
+        "user": "c6eac5dafb18354380df2c6a95887cfb",
+        "task": "C",
+        "time": 1695625670,
+        "key": "335851",
+        "token": false,
+        "score": 0,
+        "extra": [
+            "0"
+        ]
+    }
+]

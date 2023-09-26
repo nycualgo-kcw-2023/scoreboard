@@ -1,0 +1,110 @@
+{
+    "1600": {
+        "name": "Hello, world!",
+        "short_name": "A",
+        "contest": "Lab 0",
+        "max_score": 100.0,
+        "extra_headers": [
+            "meow"
+        ],
+        "order": 0,
+        "score_mode": "max",
+        "score_precision": 0
+    },
+    "1601": {
+        "name": "Proficient in I2A",
+        "short_name": "B",
+        "contest": "Lab 0",
+        "max_score": 100.0,
+        "extra_headers": [
+            "meow"
+        ],
+        "order": 1,
+        "score_mode": "max",
+        "score_precision": 0
+    },
+    "1602": {
+        "name": "Income Tax Rate",
+        "short_name": "C",
+        "contest": "Lab 0",
+        "max_score": 100.0,
+        "extra_headers": [
+            "meow"
+        ],
+        "order": 2,
+        "score_mode": "max",
+        "score_precision": 0
+    },
+    "1603": {
+        "name": "Withdraw",
+        "short_name": "D",
+        "contest": "Lab 0",
+        "max_score": 100.0,
+        "extra_headers": [
+            "meow"
+        ],
+        "order": 3,
+        "score_mode": "max",
+        "score_precision": 0
+    },
+    "1604": {
+        "name": "Queuing",
+        "short_name": "E",
+        "contest": "Lab 0",
+        "max_score": 100.0,
+        "extra_headers": [
+            "meow"
+        ],
+        "order": 4,
+        "score_mode": "max",
+        "score_precision": 0
+    },
+    "1605": {
+        "name": "Postfix",
+        "short_name": "F",
+        "contest": "Lab 0",
+        "max_score": 100.0,
+        "extra_headers": [
+            "meow"
+        ],
+        "order": 5,
+        "score_mode": "max",
+        "score_precision": 0
+    },
+    "1606": {
+        "name": "Jujutsu Kaisen \u546a\u8853\u5efb\u6226",
+        "short_name": "G",
+        "contest": "Lab 0",
+        "max_score": 100.0,
+        "extra_headers": [
+            "meow"
+        ],
+        "order": 6,
+        "score_mode": "max",
+        "score_precision": 0
+    },
+    "1607": {
+        "name": "Classical Data Structure Problem",
+        "short_name": "H",
+        "contest": "Lab 0",
+        "max_score": 100.0,
+        "extra_headers": [
+            "meow"
+        ],
+        "order": 7,
+        "score_mode": "max",
+        "score_precision": 0
+    },
+    "1608": {
+        "name": "Classical Data Structure Problem",
+        "short_name": "I",
+        "contest": "Lab 0",
+        "max_score": 100.0,
+        "extra_headers": [
+            "meow"
+        ],
+        "order": 8,
+        "score_mode": "max",
+        "score_precision": 0
+    }
+}
