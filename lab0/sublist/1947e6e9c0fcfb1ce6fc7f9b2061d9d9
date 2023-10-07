@@ -1,0 +1,54 @@
+[
+    {
+        "user": "1947e6e9c0fcfb1ce6fc7f9b2061d9d9",
+        "task": "1600",
+        "time": 1695698219,
+        "key": "336954",
+        "token": false,
+        "score": 75,
+        "extra": [
+            "0",
+            "0",
+            "50"
+        ]
+    },
+    {
+        "user": "1947e6e9c0fcfb1ce6fc7f9b2061d9d9",
+        "task": "1600",
+        "time": 1695698368,
+        "key": "336955",
+        "token": false,
+        "score": 75,
+        "extra": [
+            "0",
+            "0",
+            "50"
+        ]
+    },
+    {
+        "user": "1947e6e9c0fcfb1ce6fc7f9b2061d9d9",
+        "task": "1600",
+        "time": 1695698509,
+        "key": "336958",
+        "token": false,
+        "score": 75,
+        "extra": [
+            "0",
+            "0",
+            "50"
+        ]
+    },
+    {
+        "user": "1947e6e9c0fcfb1ce6fc7f9b2061d9d9",
+        "task": "1600",
+        "time": 1695698736,
+        "key": "336962",
+        "token": false,
+        "score": 100,
+        "extra": [
+            "0",
+            "50",
+            "50"
+        ]
+    }
+]

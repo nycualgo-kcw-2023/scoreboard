@@ -1,0 +1,28 @@
+[
+    {
+        "user": "81fd08cc62e58cc8f244f13fccdb85ab",
+        "task": "1610",
+        "time": 1696410147,
+        "key": "340460",
+        "token": false,
+        "score": 0,
+        "extra": [
+            "0",
+            "0",
+            "0"
+        ]
+    },
+    {
+        "user": "81fd08cc62e58cc8f244f13fccdb85ab",
+        "task": "1610",
+        "time": 1696410362,
+        "key": "340462",
+        "token": false,
+        "score": 30,
+        "extra": [
+            "0",
+            "30",
+            "0"
+        ]
+    }
+]

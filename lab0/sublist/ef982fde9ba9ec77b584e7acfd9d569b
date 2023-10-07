@@ -1,0 +1,41 @@
+[
+    {
+        "user": "ef982fde9ba9ec77b584e7acfd9d569b",
+        "task": "1600",
+        "time": 1695919607,
+        "key": "338577",
+        "token": false,
+        "score": 75,
+        "extra": [
+            "0",
+            "50",
+            "0"
+        ]
+    },
+    {
+        "user": "ef982fde9ba9ec77b584e7acfd9d569b",
+        "task": "1600",
+        "time": 1695919741,
+        "key": "338578",
+        "token": false,
+        "score": 75,
+        "extra": [
+            "0",
+            "50",
+            "0"
+        ]
+    },
+    {
+        "user": "ef982fde9ba9ec77b584e7acfd9d569b",
+        "task": "1600",
+        "time": 1695919842,
+        "key": "338579",
+        "token": false,
+        "score": 100,
+        "extra": [
+            "0",
+            "50",
+            "50"
+        ]
+    }
+]

@@ -1,8 +1,8 @@
 {
-    "Lab 0": {
+    "lab0": {
         "name": "Lab 0",
-        "begin": 1694966400,
-        "end": 1695657600,
-        "score_precision": 2
+        "begin": 1695052800,
+        "end": 1705507200,
+        "score_precision": 0
     }
 }

@@ -1,0 +1,100 @@
+[
+    {
+        "user": "9ce2d846a5ede6fb17ba93f24ac13873",
+        "task": "1600",
+        "time": 1695194821,
+        "key": "334320",
+        "token": false,
+        "score": 50,
+        "extra": [
+            "0",
+            "0",
+            "0"
+        ]
+    },
+    {
+        "user": "9ce2d846a5ede6fb17ba93f24ac13873",
+        "task": "1600",
+        "time": 1695195040,
+        "key": "334322",
+        "token": false,
+        "score": 100,
+        "extra": [
+            "0",
+            "50",
+            "50"
+        ]
+    },
+    {
+        "user": "9ce2d846a5ede6fb17ba93f24ac13873",
+        "task": "1602",
+        "time": 1695196837,
+        "key": "334340",
+        "token": false,
+        "score": 0,
+        "extra": [
+            "0",
+            "0"
+        ]
+    },
+    {
+        "user": "9ce2d846a5ede6fb17ba93f24ac13873",
+        "task": "1602",
+        "time": 1695196931,
+        "key": "334344",
+        "token": false,
+        "score": 0,
+        "extra": [
+            "0",
+            "0"
+        ]
+    },
+    {
+        "user": "9ce2d846a5ede6fb17ba93f24ac13873",
+        "task": "1602",
+        "time": 1695197310,
+        "key": "334349",
+        "token": false,
+        "score": 0,
+        "extra": [
+            "0",
+            "0"
+        ]
+    },
+    {
+        "user": "9ce2d846a5ede6fb17ba93f24ac13873",
+        "task": "1602",
+        "time": 1695197882,
+        "key": "334354",
+        "token": false,
+        "score": 0,
+        "extra": [
+            "0",
+            "0"
+        ]
+    },
+    {
+        "user": "9ce2d846a5ede6fb17ba93f24ac13873",
+        "task": "1603",
+        "time": 1695198648,
+        "key": "334365",
+        "token": false,
+        "score": 0,
+        "extra": [
+            "0",
+            "0"
+        ]
+    },
+    {
+        "user": "9ce2d846a5ede6fb17ba93f24ac13873",
+        "task": "1606",
+        "time": 1695449856,
+        "key": "335256",
+        "token": false,
+        "score": 0,
+        "extra": [
+            "0",
+            "0"
+        ]
+    }
+]

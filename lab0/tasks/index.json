@@ -2,109 +2,138 @@
     "1600": {
         "name": "Hello, world!",
         "short_name": "A",
-        "contest": "Lab 0",
-        "max_score": 100.0,
+        "contest": "lab0",
+        "max_score": 100,
         "extra_headers": [
-            "meow"
+            "Sample",
+            "Subtask 1 (50)",
+            "Subtask 2 (50)"
         ],
         "order": 0,
-        "score_mode": "max",
+        "score_mode": "max_subtask",
         "score_precision": 0
     },
     "1601": {
         "name": "Proficient in I2A",
         "short_name": "B",
-        "contest": "Lab 0",
-        "max_score": 100.0,
+        "contest": "lab0",
+        "max_score": 100,
         "extra_headers": [
-            "meow"
+            "Sample",
+            "Subtask 1 (5)",
+            "Subtask 2 (5)",
+            "Subtask 3 (5)",
+            "Subtask 4 (5)",
+            "Subtask 5 (5)",
+            "Subtask 6 (5)",
+            "Subtask 7 (5)",
+            "Subtask 8 (15)",
+            "Subtask 9 (15)",
+            "Subtask 10 (15)",
+            "Subtask 11 (20)"
         ],
         "order": 1,
-        "score_mode": "max",
+        "score_mode": "max_subtask",
         "score_precision": 0
     },
     "1602": {
         "name": "Income Tax Rate",
         "short_name": "C",
-        "contest": "Lab 0",
-        "max_score": 100.0,
+        "contest": "lab0",
+        "max_score": 100,
         "extra_headers": [
-            "meow"
+            "Sample",
+            "Subtask 1 (100)"
         ],
         "order": 2,
-        "score_mode": "max",
+        "score_mode": "max_subtask",
         "score_precision": 0
     },
     "1603": {
         "name": "Withdraw",
         "short_name": "D",
-        "contest": "Lab 0",
-        "max_score": 100.0,
+        "contest": "lab0",
+        "max_score": 100,
         "extra_headers": [
-            "meow"
+            "Sample",
+            "Subtask 1 (100)"
         ],
         "order": 3,
-        "score_mode": "max",
+        "score_mode": "max_subtask",
         "score_precision": 0
     },
     "1604": {
         "name": "Queuing",
         "short_name": "E",
-        "contest": "Lab 0",
-        "max_score": 100.0,
+        "contest": "lab0",
+        "max_score": 100,
         "extra_headers": [
-            "meow"
+            "Sample",
+            "Subtask 1 (20)",
+            "Subtask 2 (50)",
+            "Subtask 3 (30)"
         ],
         "order": 4,
-        "score_mode": "max",
+        "score_mode": "max_subtask",
         "score_precision": 0
     },
     "1605": {
         "name": "Postfix",
         "short_name": "F",
-        "contest": "Lab 0",
-        "max_score": 100.0,
+        "contest": "lab0",
+        "max_score": 100,
         "extra_headers": [
-            "meow"
+            "Sample",
+            "Subtask 1 (100)"
         ],
         "order": 5,
-        "score_mode": "max",
+        "score_mode": "max_subtask",
         "score_precision": 0
     },
     "1606": {
         "name": "Jujutsu Kaisen \u546a\u8853\u5efb\u6226",
         "short_name": "G",
-        "contest": "Lab 0",
-        "max_score": 100.0,
+        "contest": "lab0",
+        "max_score": 100,
         "extra_headers": [
-            "meow"
+            "Sample",
+            "Subtask 1 (100)"
         ],
         "order": 6,
-        "score_mode": "max",
+        "score_mode": "max_subtask",
         "score_precision": 0
     },
     "1607": {
         "name": "Classical Data Structure Problem",
         "short_name": "H",
-        "contest": "Lab 0",
-        "max_score": 100.0,
+        "contest": "lab0",
+        "max_score": 100,
         "extra_headers": [
-            "meow"
+            "Sample",
+            "Subtask 1 (15)",
+            "Subtask 2 (15)",
+            "Subtask 3 (30)",
+            "Subtask 4 (30)",
+            "Subtask 5 (10)"
         ],
         "order": 7,
-        "score_mode": "max",
+        "score_mode": "max_subtask",
         "score_precision": 0
     },
     "1608": {
         "name": "Classical Data Structure Problem",
         "short_name": "I",
-        "contest": "Lab 0",
-        "max_score": 100.0,
+        "contest": "lab0",
+        "max_score": 100,
         "extra_headers": [
-            "meow"
+            "Sample",
+            "Subtask 1 (1)",
+            "Subtask 2 (9)",
+            "Subtask 3 (20)",
+            "Subtask 4 (70)"
         ],
         "order": 8,
-        "score_mode": "max",
+        "score_mode": "max_subtask",
         "score_precision": 0
     }
 }
