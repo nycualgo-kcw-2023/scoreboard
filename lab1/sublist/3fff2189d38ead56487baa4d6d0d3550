@@ -271,5 +271,70 @@
             "0",
             "0"
         ]
+    },
+    {
+        "user": "3fff2189d38ead56487baa4d6d0d3550",
+        "task": "1614",
+        "time": 1696979115,
+        "key": "343647",
+        "token": false,
+        "score": 0,
+        "extra": [
+            "0",
+            "0",
+            "0"
+        ]
+    },
+    {
+        "user": "3fff2189d38ead56487baa4d6d0d3550",
+        "task": "1614",
+        "time": 1696979184,
+        "key": "343649",
+        "token": false,
+        "score": 0,
+        "extra": [
+            "0",
+            "0",
+            "0"
+        ]
+    },
+    {
+        "user": "3fff2189d38ead56487baa4d6d0d3550",
+        "task": "1614",
+        "time": 1696979372,
+        "key": "343653",
+        "token": false,
+        "score": 0,
+        "extra": [
+            "0",
+            "0",
+            "0"
+        ]
+    },
+    {
+        "user": "3fff2189d38ead56487baa4d6d0d3550",
+        "task": "1614",
+        "time": 1696979504,
+        "key": "343654",
+        "token": false,
+        "score": 0,
+        "extra": [
+            "0",
+            "0",
+            "0"
+        ]
+    },
+    {
+        "user": "3fff2189d38ead56487baa4d6d0d3550",
+        "task": "1614",
+        "time": 1696981278,
+        "key": "343678",
+        "token": false,
+        "score": 100,
+        "extra": [
+            "0",
+            "25",
+            "75"
+        ]
     }
 ]
