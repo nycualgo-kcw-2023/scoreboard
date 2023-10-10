@@ -37,7 +37,11 @@ var TimeView = new function () {
     // - 0: elapsed time
     // - 1: remaining time
     // - 2: current (clock) time
-    self.status = 0;
+    // - 3: last update time
+    self.status = 3;
+
+    // Generate from scoreboard/ranking-template/LastUpdate.js
+    self.last_update_time = last_update;
 
     self.init = function () {
         window.setInterval(function() {
@@ -48,22 +52,24 @@ var TimeView = new function () {
         $("#TimeView_selector_elapsed").click(function () {
             self.status = 0;
             self.on_timer();
-            $("#TimeView_selector").removeClass("open");
         });
 
         $("#TimeView_selector_remaining").click(function () {
             self.status = 1;
             self.on_timer();
-            $("#TimeView_selector").removeClass("open");
         });
 
         $("#TimeView_selector_current").click(function () {
             self.status = 2;
             self.on_timer();
-            $("#TimeView_selector").removeClass("open");
         });
 
-        $("#TimeView_expand").click(function () {
+        $("#TimeView_selector_last_update").click(function () {
+            self.status = 3;
+            self.on_timer();
+        });
+
+        $("#TimeView_selector").click(function () {
             $("#TimeView_selector").toggleClass("open");
         });
 
@@ -105,7 +111,7 @@ var TimeView = new function () {
 
         if (c == null) {
             // no "next contest": always show the clock
-            $("#TimeView").removeClass("elapsed remaining pre_cont cont");
+            $("#TimeView").removeClass("last_update elapsed remaining pre_cont cont");
             $("#TimeView").addClass("current post_cont");
             full_time = true;
         } else {
@@ -127,25 +133,35 @@ var TimeView = new function () {
                 $("#TimeView").removeClass("pre_cont post_cont");
                 $("#TimeView").addClass("cont");
                 if (self.status == 2) {
-                    $("#TimeView").removeClass("elapsed remaining");
+                    $("#TimeView").removeClass("elapsed remaining last_update");
                     $("#TimeView").addClass("current");
                     full_time = true;
                 } else if (self.status == 1) {
-                    $("#TimeView").removeClass("elapsed current");
+                    $("#TimeView").removeClass("elapsed current last_update");
                     $("#TimeView").addClass("remaining");
                     time = cur_time - c['end'];
-                } else {
-                    $("#TimeView").removeClass("remaining current");
+                } else if (self.status == 0){
+                    $("#TimeView").removeClass("remaining current last_update");
                     $("#TimeView").addClass("elapsed");
                     time = cur_time - c['begin'];
+                } else {
+                    $("#TimeView").removeClass("remaining current elapsed");
+                    $("#TimeView").addClass("last_update");
                 }
             }
         }
 
-        var time_str = format_time(Math.abs(Math.floor(time)), full_time);
-        if (time < 0) {
-            time_str = '-' + time_str;
+
+        var time_str = '';
+        if (self.status === 3) {
+            time_str = self.last_update_time;
+        } else {
+            var time_str = format_time(Math.abs(Math.floor(time)), full_time);
+            if (time < 0) {
+                time_str = '-' + time_str;
+            }
         }
+
 
         $("#TimeView_time").text(time_str);
     };

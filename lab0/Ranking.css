@@ -183,7 +183,8 @@ abbr {
 
 #TimeView_selector_elapsed,
 #TimeView_selector_remaining,
-#TimeView_selector_current {
+#TimeView_selector_current,
+#TimeView_selector_last_update {
     padding: 2px 4px;
     font-size: 0.875em;
     line-height: 1.4em;
@@ -193,20 +194,23 @@ abbr {
 
 #TimeView.pre_cont #TimeView_selector_elapsed,
 #TimeView.post_cont #TimeView_selector_elapsed,
-#TimeView.post_cont #TimeView_selector_remaining {
+#TimeView.post_cont #TimeView_selector_remaining,
+#TimeView.post_cont #TimeView_selector_last_update {
     display: none;
 }
 
 #TimeView.elapsed #TimeView_selector_elapsed,
 #TimeView.remaining #TimeView_selector_remaining,
-#TimeView.current #TimeView_selector_current {
+#TimeView.current #TimeView_selector_current,
+#TimeView.last_update #TimeView_selector_last_update {
     background-color: #F2F2F3;
     color: #000000;
 }
 
 #TimeView_selector_elapsed:hover,
 #TimeView_selector_remaining:hover,
-#TimeView_selector_current:hover {
+#TimeView_selector_current:hover,
+#TimeView_selector_last_update:hover {
     background-color: #FAFAFA !important;
     color: #000000;
 }

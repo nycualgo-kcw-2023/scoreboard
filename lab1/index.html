@@ -22,6 +22,7 @@ if (!("EventSource" in window)) {
         <script type="text/javascript" src="HistoryStore.js"></script>
         <script type="text/javascript" src="Chart.js"></script>
         <script type="text/javascript" src="UserDetail.js"></script>
+        <script type="text/javascript" src="LastUpdate.js"></script>
         <script type="text/javascript" src="TimeView.js"></script>
         <script type="text/javascript" src="TeamSearch.js"></script>
         <script type="text/javascript" src="Overview.js"></script>
@@ -43,10 +44,11 @@ if (!("EventSource" in window)) {
             <div id="TimeView">
                 <div id="TimeView_name"></div>
                 <div id="TimeView_selector">
-                    <div id="TimeView_time"></div><div id="TimeView_expand"><div class="caret"></div></div>
+                    <div id="TimeView_time"></div>
                     <div id="TimeView_selector_elapsed">Elapsed time</div>
                     <div id="TimeView_selector_remaining">Remaining time</div>
                     <div id="TimeView_selector_current">Current time</div>
+                    <div id="TimeView_selector_last_update">Last Update Time</div>
                 </div>
             </div>
             <div id="SidePanel">
