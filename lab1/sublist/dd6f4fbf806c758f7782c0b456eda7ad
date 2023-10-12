@@ -498,5 +498,31 @@
             "0",
             "0"
         ]
+    },
+    {
+        "user": "dd6f4fbf806c758f7782c0b456eda7ad",
+        "task": "1614",
+        "time": 1697132773,
+        "key": "344562",
+        "token": false,
+        "score": 0,
+        "extra": [
+            "0",
+            "0",
+            "0"
+        ]
+    },
+    {
+        "user": "dd6f4fbf806c758f7782c0b456eda7ad",
+        "task": "1614",
+        "time": 1697133038,
+        "key": "344565",
+        "token": false,
+        "score": 25,
+        "extra": [
+            "0",
+            "25",
+            "0"
+        ]
     }
 ]
