@@ -366,5 +366,109 @@
             "0",
             "0"
         ]
+    },
+    {
+        "user": "38028b28c2ccadad60d77a0a214f9c09",
+        "task": "1612",
+        "time": 1697317174,
+        "key": "346350",
+        "token": false,
+        "score": 0,
+        "extra": [
+            "0",
+            "0",
+            "0"
+        ]
+    },
+    {
+        "user": "38028b28c2ccadad60d77a0a214f9c09",
+        "task": "1612",
+        "time": 1697317415,
+        "key": "346356",
+        "token": false,
+        "score": 0,
+        "extra": [
+            "0",
+            "0",
+            "0"
+        ]
+    },
+    {
+        "user": "38028b28c2ccadad60d77a0a214f9c09",
+        "task": "1612",
+        "time": 1697317701,
+        "key": "346362",
+        "token": false,
+        "score": 0,
+        "extra": [
+            "0",
+            "0",
+            "0"
+        ]
+    },
+    {
+        "user": "38028b28c2ccadad60d77a0a214f9c09",
+        "task": "1612",
+        "time": 1697317825,
+        "key": "346366",
+        "token": false,
+        "score": 40,
+        "extra": [
+            "0",
+            "40",
+            "0"
+        ]
+    },
+    {
+        "user": "38028b28c2ccadad60d77a0a214f9c09",
+        "task": "1612",
+        "time": 1697318012,
+        "key": "346372",
+        "token": false,
+        "score": 40,
+        "extra": [
+            "0",
+            "40",
+            "0"
+        ]
+    },
+    {
+        "user": "38028b28c2ccadad60d77a0a214f9c09",
+        "task": "1612",
+        "time": 1697318163,
+        "key": "346375",
+        "token": false,
+        "score": 40,
+        "extra": [
+            "0",
+            "40",
+            "0"
+        ]
+    },
+    {
+        "user": "38028b28c2ccadad60d77a0a214f9c09",
+        "task": "1612",
+        "time": 1697318542,
+        "key": "346383",
+        "token": false,
+        "score": 40,
+        "extra": [
+            "0",
+            "40",
+            "0"
+        ]
+    },
+    {
+        "user": "38028b28c2ccadad60d77a0a214f9c09",
+        "task": "1612",
+        "time": 1697318641,
+        "key": "346387",
+        "token": false,
+        "score": 0,
+        "extra": [
+            "0",
+            "0",
+            "0"
+        ]
     }
 ]

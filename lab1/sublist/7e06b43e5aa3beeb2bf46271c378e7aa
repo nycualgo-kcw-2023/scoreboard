@@ -67,5 +67,70 @@
             "20",
             "50"
         ]
+    },
+    {
+        "user": "7e06b43e5aa3beeb2bf46271c378e7aa",
+        "task": "1612",
+        "time": 1697318651,
+        "key": "346388",
+        "token": false,
+        "score": 0,
+        "extra": [
+            "0",
+            "0",
+            "0"
+        ]
+    },
+    {
+        "user": "7e06b43e5aa3beeb2bf46271c378e7aa",
+        "task": "1612",
+        "time": 1697318881,
+        "key": "346392",
+        "token": false,
+        "score": 0,
+        "extra": [
+            "0",
+            "0",
+            "0"
+        ]
+    },
+    {
+        "user": "7e06b43e5aa3beeb2bf46271c378e7aa",
+        "task": "1612",
+        "time": 1697318927,
+        "key": "346393",
+        "token": false,
+        "score": 40,
+        "extra": [
+            "0",
+            "40",
+            "0"
+        ]
+    },
+    {
+        "user": "7e06b43e5aa3beeb2bf46271c378e7aa",
+        "task": "1612",
+        "time": 1697320207,
+        "key": "346414",
+        "token": false,
+        "score": 40,
+        "extra": [
+            "0",
+            "40",
+            "0"
+        ]
+    },
+    {
+        "user": "7e06b43e5aa3beeb2bf46271c378e7aa",
+        "task": "1612",
+        "time": 1697320315,
+        "key": "346417",
+        "token": false,
+        "score": 40,
+        "extra": [
+            "0",
+            "40",
+            "0"
+        ]
     }
 ]
