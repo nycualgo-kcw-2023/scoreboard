@@ -651,5 +651,57 @@
             "0",
             "0"
         ]
+    },
+    {
+        "user": "28b2fd4c8d83296fc61decce498f0c64",
+        "task": "1614",
+        "time": 1697490223,
+        "key": "348645",
+        "token": false,
+        "score": 0,
+        "extra": [
+            "0",
+            "0",
+            "0"
+        ]
+    },
+    {
+        "user": "28b2fd4c8d83296fc61decce498f0c64",
+        "task": "1614",
+        "time": 1697490750,
+        "key": "348662",
+        "token": false,
+        "score": 0,
+        "extra": [
+            "0",
+            "0",
+            "0"
+        ]
+    },
+    {
+        "user": "28b2fd4c8d83296fc61decce498f0c64",
+        "task": "1614",
+        "time": 1697491373,
+        "key": "348676",
+        "token": false,
+        "score": 0,
+        "extra": [
+            "0",
+            "0",
+            "0"
+        ]
+    },
+    {
+        "user": "28b2fd4c8d83296fc61decce498f0c64",
+        "task": "1614",
+        "time": 1697491544,
+        "key": "348681",
+        "token": false,
+        "score": 25,
+        "extra": [
+            "0",
+            "25",
+            "0"
+        ]
     }
 ]
