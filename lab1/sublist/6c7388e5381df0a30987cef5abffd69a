@@ -133,5 +133,44 @@
             "20",
             "50"
         ]
+    },
+    {
+        "user": "6c7388e5381df0a30987cef5abffd69a",
+        "task": "1613",
+        "time": 1697487813,
+        "key": "348591",
+        "token": false,
+        "score": 70,
+        "extra": [
+            "0",
+            "70",
+            "0"
+        ]
+    },
+    {
+        "user": "6c7388e5381df0a30987cef5abffd69a",
+        "task": "1613",
+        "time": 1697488139,
+        "key": "348604",
+        "token": false,
+        "score": 70,
+        "extra": [
+            "0",
+            "70",
+            "0"
+        ]
+    },
+    {
+        "user": "6c7388e5381df0a30987cef5abffd69a",
+        "task": "1613",
+        "time": 1697488460,
+        "key": "348614",
+        "token": false,
+        "score": 70,
+        "extra": [
+            "0",
+            "70",
+            "0"
+        ]
     }
 ]
