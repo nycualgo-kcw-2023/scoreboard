@@ -691,5 +691,44 @@
             "0",
             "0"
         ]
+    },
+    {
+        "user": "e7c8ce94d7eeccdc3771f1d641997fa1",
+        "task": "1614",
+        "time": 1697508980,
+        "key": "349196",
+        "token": false,
+        "score": 0,
+        "extra": [
+            "0",
+            "0",
+            "0"
+        ]
+    },
+    {
+        "user": "e7c8ce94d7eeccdc3771f1d641997fa1",
+        "task": "1614",
+        "time": 1697510050,
+        "key": "349225",
+        "token": false,
+        "score": 25,
+        "extra": [
+            "0",
+            "25",
+            "0"
+        ]
+    },
+    {
+        "user": "e7c8ce94d7eeccdc3771f1d641997fa1",
+        "task": "1614",
+        "time": 1697510644,
+        "key": "349241",
+        "token": false,
+        "score": 25,
+        "extra": [
+            "0",
+            "25",
+            "0"
+        ]
     }
 ]
