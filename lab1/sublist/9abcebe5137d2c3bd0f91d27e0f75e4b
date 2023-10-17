@@ -612,5 +612,31 @@
             "20",
             "50"
         ]
+    },
+    {
+        "user": "9abcebe5137d2c3bd0f91d27e0f75e4b",
+        "task": "1612",
+        "time": 1697568682,
+        "key": "350224",
+        "token": false,
+        "score": 40,
+        "extra": [
+            "0",
+            "40",
+            "0"
+        ]
+    },
+    {
+        "user": "9abcebe5137d2c3bd0f91d27e0f75e4b",
+        "task": "1612",
+        "time": 1697569079,
+        "key": "350233",
+        "token": false,
+        "score": 40,
+        "extra": [
+            "0",
+            "40",
+            "0"
+        ]
     }
 ]
