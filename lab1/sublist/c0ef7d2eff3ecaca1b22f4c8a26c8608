@@ -511,5 +511,161 @@
             "0",
             "0"
         ]
+    },
+    {
+        "user": "c0ef7d2eff3ecaca1b22f4c8a26c8608",
+        "task": "1612",
+        "time": 1697558514,
+        "key": "349947",
+        "token": false,
+        "score": 40,
+        "extra": [
+            "0",
+            "40",
+            "0"
+        ]
+    },
+    {
+        "user": "c0ef7d2eff3ecaca1b22f4c8a26c8608",
+        "task": "1612",
+        "time": 1697558770,
+        "key": "349955",
+        "token": false,
+        "score": 40,
+        "extra": [
+            "0",
+            "40",
+            "0"
+        ]
+    },
+    {
+        "user": "c0ef7d2eff3ecaca1b22f4c8a26c8608",
+        "task": "1612",
+        "time": 1697559101,
+        "key": "349966",
+        "token": false,
+        "score": 0,
+        "extra": [
+            "0",
+            "0",
+            "0"
+        ]
+    },
+    {
+        "user": "c0ef7d2eff3ecaca1b22f4c8a26c8608",
+        "task": "1612",
+        "time": 1697559270,
+        "key": "349974",
+        "token": false,
+        "score": 0,
+        "extra": [
+            "0",
+            "0",
+            "0"
+        ]
+    },
+    {
+        "user": "c0ef7d2eff3ecaca1b22f4c8a26c8608",
+        "task": "1612",
+        "time": 1697559387,
+        "key": "349978",
+        "token": false,
+        "score": 0,
+        "extra": [
+            "0",
+            "0",
+            "0"
+        ]
+    },
+    {
+        "user": "c0ef7d2eff3ecaca1b22f4c8a26c8608",
+        "task": "1612",
+        "time": 1697560022,
+        "key": "350003",
+        "token": false,
+        "score": 0,
+        "extra": [
+            "0",
+            "0",
+            "0"
+        ]
+    },
+    {
+        "user": "c0ef7d2eff3ecaca1b22f4c8a26c8608",
+        "task": "1612",
+        "time": 1697560568,
+        "key": "350017",
+        "token": false,
+        "score": 40,
+        "extra": [
+            "0",
+            "40",
+            "0"
+        ]
+    },
+    {
+        "user": "c0ef7d2eff3ecaca1b22f4c8a26c8608",
+        "task": "1612",
+        "time": 1697561065,
+        "key": "350031",
+        "token": false,
+        "score": 0,
+        "extra": [
+            "0",
+            "0",
+            "0"
+        ]
+    },
+    {
+        "user": "c0ef7d2eff3ecaca1b22f4c8a26c8608",
+        "task": "1612",
+        "time": 1697561255,
+        "key": "350040",
+        "token": false,
+        "score": 40,
+        "extra": [
+            "0",
+            "40",
+            "0"
+        ]
+    },
+    {
+        "user": "c0ef7d2eff3ecaca1b22f4c8a26c8608",
+        "task": "1612",
+        "time": 1697561345,
+        "key": "350043",
+        "token": false,
+        "score": 0,
+        "extra": [
+            "0",
+            "0",
+            "0"
+        ]
+    },
+    {
+        "user": "c0ef7d2eff3ecaca1b22f4c8a26c8608",
+        "task": "1612",
+        "time": 1697561449,
+        "key": "350047",
+        "token": false,
+        "score": 0,
+        "extra": [
+            "0",
+            "0",
+            "0"
+        ]
+    },
+    {
+        "user": "c0ef7d2eff3ecaca1b22f4c8a26c8608",
+        "task": "1612",
+        "time": 1697561537,
+        "key": "350051",
+        "token": false,
+        "score": 100,
+        "extra": [
+            "0",
+            "40",
+            "60"
+        ]
     }
 ]
