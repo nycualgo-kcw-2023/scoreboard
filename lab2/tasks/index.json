@@ -1,6 +1,6 @@
 {
     "1620": {
-        "name": "lab2-easyproblem",
+        "name": "Easy Problem",
         "short_name": "A",
         "contest": "lab2",
         "max_score": 100,
@@ -46,7 +46,7 @@
         "score_precision": 0
     },
     "1623": {
-        "name": "lab2-monkey",
+        "name": "Monkey",
         "short_name": "D",
         "contest": "lab2",
         "max_score": 100,
