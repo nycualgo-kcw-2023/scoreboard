@@ -12,5 +12,33 @@
             "0",
             "0"
         ]
+    },
+    {
+        "user": "06dfb9aa136aaf68e4c6ecad324aeaa5",
+        "task": "1620",
+        "time": 1697764102,
+        "key": "351590",
+        "token": false,
+        "score": 10,
+        "extra": [
+            "0",
+            "10",
+            "0",
+            "0"
+        ]
+    },
+    {
+        "user": "06dfb9aa136aaf68e4c6ecad324aeaa5",
+        "task": "1620",
+        "time": 1697766825,
+        "key": "351608",
+        "token": false,
+        "score": 40,
+        "extra": [
+            "0",
+            "10",
+            "30",
+            "0"
+        ]
     }
 ]
