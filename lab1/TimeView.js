@@ -103,8 +103,6 @@ var TimeView = new function () {
             $("#TimeView_name").text(c["name"]);
         }
 
-        $("#TimeView_name").text("Lab 1");
-
         var date = new Date(cur_time * 1000);
         var today = new Date(date.getFullYear(), date.getMonth(), date.getDate());
         var time = cur_time - today.getTime() / 1000;
