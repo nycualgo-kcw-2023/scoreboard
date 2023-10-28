@@ -260,5 +260,53 @@
             "0",
             "0"
         ]
+    },
+    {
+        "user": "be544f64fa8e68112f92080cc718b44a",
+        "task": "1622",
+        "time": 1698523231,
+        "key": "354911",
+        "token": false,
+        "score": 0,
+        "extra": [
+            "0",
+            "0"
+        ]
+    },
+    {
+        "user": "be544f64fa8e68112f92080cc718b44a",
+        "task": "1622",
+        "time": 1698524039,
+        "key": "354912",
+        "token": false,
+        "score": 99,
+        "extra": [
+            "0",
+            "99"
+        ]
+    },
+    {
+        "user": "be544f64fa8e68112f92080cc718b44a",
+        "task": "1622",
+        "time": 1698525360,
+        "key": "354914",
+        "token": false,
+        "score": 0,
+        "extra": [
+            "0",
+            "0"
+        ]
+    },
+    {
+        "user": "be544f64fa8e68112f92080cc718b44a",
+        "task": "1622",
+        "time": 1698525508,
+        "key": "354915",
+        "token": false,
+        "score": 90,
+        "extra": [
+            "0",
+            "90"
+        ]
     }
 ]
