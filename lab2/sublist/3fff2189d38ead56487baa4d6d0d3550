@@ -187,5 +187,41 @@
             "60",
             "40"
         ]
+    },
+    {
+        "user": "3fff2189d38ead56487baa4d6d0d3550",
+        "task": "1622",
+        "time": 1698505302,
+        "key": "354869",
+        "token": false,
+        "score": 0,
+        "extra": [
+            "0",
+            "0"
+        ]
+    },
+    {
+        "user": "3fff2189d38ead56487baa4d6d0d3550",
+        "task": "1622",
+        "time": 1698507197,
+        "key": "354873",
+        "token": false,
+        "score": 0,
+        "extra": [
+            "0",
+            "0"
+        ]
+    },
+    {
+        "user": "3fff2189d38ead56487baa4d6d0d3550",
+        "task": "1622",
+        "time": 1698508570,
+        "key": "354882",
+        "token": false,
+        "score": 0,
+        "extra": [
+            "0",
+            "0"
+        ]
     }
 ]
