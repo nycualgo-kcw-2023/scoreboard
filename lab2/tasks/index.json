@@ -85,10 +85,11 @@
             "Sample",
             "Subtask 1 (5)",
             "Subtask 2 (5)",
-            "Subtask 3 (60)",
-            "Subtask 4 (10)",
-            "Subtask 5 (15)",
-            "Subtask 6 (5)"
+            "Subtask 3 (30)",
+            "Subtask 4 (30)",
+            "Subtask 5 (10)",
+            "Subtask 6 (15)",
+            "Subtask 7 (5)"
         ],
         "order": 5,
         "score_mode": "max_subtask",
