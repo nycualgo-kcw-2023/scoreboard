@@ -1,0 +1,84 @@
+{
+    "1630": {
+        "name": "Hero Wars",
+        "short_name": "A",
+        "contest": "lab3",
+        "max_score": 100,
+        "extra_headers": [
+            "Sample",
+            "Subtask 1 (15)",
+            "Subtask 2 (30)",
+            "Subtask 3 (25)",
+            "Subtask 4 (0)",
+            "Subtask 5 (30)"
+        ],
+        "order": 0,
+        "score_mode": "max_subtask",
+        "score_precision": 0
+    },
+    "1631": {
+        "name": "Intel CPU",
+        "short_name": "B",
+        "contest": "lab3",
+        "max_score": 100,
+        "extra_headers": [
+            "Sample",
+            "Subtask 1 (40)",
+            "Subtask 2 (60)"
+        ],
+        "order": 1,
+        "score_mode": "max_subtask",
+        "score_precision": 0
+    },
+    "1632": {
+        "name": "pecola",
+        "short_name": "C",
+        "contest": "lab3",
+        "max_score": 100,
+        "extra_headers": [
+            "Sample",
+            "Subtask 1 (5)",
+            "Subtask 2 (35)",
+            "Subtask 3 (15)",
+            "Subtask 4 (45)"
+        ],
+        "order": 2,
+        "score_mode": "max_subtask",
+        "score_precision": 0
+    },
+    "1633": {
+        "name": "Thrill Factor",
+        "short_name": "D",
+        "contest": "lab3",
+        "max_score": 100,
+        "extra_headers": [
+            "Sample",
+            "Subtask 1 (20)",
+            "Subtask 2 (10)",
+            "Subtask 3 (10)",
+            "Subtask 4 (10)",
+            "Subtask 5 (50)"
+        ],
+        "order": 3,
+        "score_mode": "max_subtask",
+        "score_precision": 0
+    },
+    "1634": {
+        "name": "Path of the Wealth",
+        "short_name": "E",
+        "contest": "lab3",
+        "max_score": 100,
+        "extra_headers": [
+            "Sample",
+            "Subtask 1 (10)",
+            "Subtask 2 (30)",
+            "Subtask 3 (10)",
+            "Subtask 4 (20)",
+            "Subtask 5 (20)",
+            "Subtask 6 (10)"
+        ],
+        "order": 4,
+        "score_mode": "max_subtask",
+        "score_precision": 0
+    }
+}
