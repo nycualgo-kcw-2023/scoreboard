@@ -167,5 +167,44 @@
             "0",
             "0"
         ]
+    },
+    {
+        "user": "e64e1bf7eae44171ab7344092ddff66b",
+        "task": "1623",
+        "time": 1699056460,
+        "key": "356835",
+        "token": false,
+        "score": 0,
+        "extra": [
+            "0",
+            "0",
+            "0"
+        ]
+    },
+    {
+        "user": "e64e1bf7eae44171ab7344092ddff66b",
+        "task": "1623",
+        "time": 1699058221,
+        "key": "356856",
+        "token": false,
+        "score": 0,
+        "extra": [
+            "0",
+            "0",
+            "0"
+        ]
+    },
+    {
+        "user": "e64e1bf7eae44171ab7344092ddff66b",
+        "task": "1623",
+        "time": 1699059051,
+        "key": "356863",
+        "token": false,
+        "score": 100,
+        "extra": [
+            "0",
+            "60",
+            "40"
+        ]
     }
 ]
