@@ -370,5 +370,65 @@
             "0",
             "0"
         ]
+    },
+    {
+        "user": "eb3e4b6ade3dd3f8279c914956c28cae",
+        "task": "1622",
+        "time": 1699106397,
+        "key": "357031",
+        "token": false,
+        "score": 0,
+        "extra": [
+            "0",
+            "0"
+        ]
+    },
+    {
+        "user": "eb3e4b6ade3dd3f8279c914956c28cae",
+        "task": "1622",
+        "time": 1699106710,
+        "key": "357032",
+        "token": false,
+        "score": 0,
+        "extra": [
+            "0",
+            "0"
+        ]
+    },
+    {
+        "user": "eb3e4b6ade3dd3f8279c914956c28cae",
+        "task": "1622",
+        "time": 1699108116,
+        "key": "357042",
+        "token": false,
+        "score": 0,
+        "extra": [
+            "0",
+            "0"
+        ]
+    },
+    {
+        "user": "eb3e4b6ade3dd3f8279c914956c28cae",
+        "task": "1622",
+        "time": 1699108651,
+        "key": "357048",
+        "token": false,
+        "score": 0,
+        "extra": [
+            "0",
+            "0"
+        ]
+    },
+    {
+        "user": "eb3e4b6ade3dd3f8279c914956c28cae",
+        "task": "1622",
+        "time": 1699109919,
+        "key": "357056",
+        "token": false,
+        "score": 36,
+        "extra": [
+            "0",
+            "36"
+        ]
     }
 ]
