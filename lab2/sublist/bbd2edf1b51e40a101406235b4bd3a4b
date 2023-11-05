@@ -468,5 +468,29 @@
             "0",
             "0"
         ]
+    },
+    {
+        "user": "bbd2edf1b51e40a101406235b4bd3a4b",
+        "task": "1622",
+        "time": 1699215132,
+        "key": "357659",
+        "token": false,
+        "score": 0,
+        "extra": [
+            "0",
+            "0"
+        ]
+    },
+    {
+        "user": "bbd2edf1b51e40a101406235b4bd3a4b",
+        "task": "1622",
+        "time": 1699215549,
+        "key": "357662",
+        "token": false,
+        "score": 99,
+        "extra": [
+            "0",
+            "99"
+        ]
     }
 ]
