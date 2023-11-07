@@ -1214,5 +1214,41 @@
             "5",
             "10"
         ]
+    },
+    {
+        "user": "7e06b43e5aa3beeb2bf46271c378e7aa",
+        "task": "1622",
+        "time": 1699409234,
+        "key": "358876",
+        "token": false,
+        "score": 0,
+        "extra": [
+            "0",
+            "0"
+        ]
+    },
+    {
+        "user": "7e06b43e5aa3beeb2bf46271c378e7aa",
+        "task": "1622",
+        "time": 1699409288,
+        "key": "358877",
+        "token": false,
+        "score": 0,
+        "extra": [
+            "0",
+            "0"
+        ]
+    },
+    {
+        "user": "7e06b43e5aa3beeb2bf46271c378e7aa",
+        "task": "1622",
+        "time": 1699410912,
+        "key": "358893",
+        "token": false,
+        "score": 36,
+        "extra": [
+            "0",
+            "36"
+        ]
     }
 ]
