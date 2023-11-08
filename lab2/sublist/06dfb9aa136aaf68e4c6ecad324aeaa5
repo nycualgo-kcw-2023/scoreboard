@@ -469,5 +469,17 @@
             "5",
             "25"
         ]
+    },
+    {
+        "user": "06dfb9aa136aaf68e4c6ecad324aeaa5",
+        "task": "1622",
+        "time": 1699484146,
+        "key": "359619",
+        "token": false,
+        "score": 0,
+        "extra": [
+            "0",
+            "0"
+        ]
     }
 ]
