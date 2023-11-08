@@ -253,5 +253,29 @@
             "0",
             "0"
         ]
+    },
+    {
+        "user": "9ce2d846a5ede6fb17ba93f24ac13873",
+        "task": "1622",
+        "time": 1699477924,
+        "key": "359455",
+        "token": false,
+        "score": 36,
+        "extra": [
+            "0",
+            "36"
+        ]
+    },
+    {
+        "user": "9ce2d846a5ede6fb17ba93f24ac13873",
+        "task": "1622",
+        "time": 1699478521,
+        "key": "359466",
+        "token": false,
+        "score": 10,
+        "extra": [
+            "0",
+            "10"
+        ]
     }
 ]

@@ -431,5 +431,45 @@
             "60",
             "40"
         ]
+    },
+    {
+        "user": "c0ef7d2eff3ecaca1b22f4c8a26c8608",
+        "task": "1622",
+        "time": 1699477564,
+        "key": "359437",
+        "token": false,
+        "score": 0,
+        "extra": [
+            "0",
+            "0"
+        ]
+    },
+    {
+        "user": "c0ef7d2eff3ecaca1b22f4c8a26c8608",
+        "task": "1622",
+        "time": 1699477670,
+        "key": "359442",
+        "token": false,
+        "score": 0,
+        "extra": [
+            "0",
+            "0"
+        ]
+    },
+    {
+        "user": "c0ef7d2eff3ecaca1b22f4c8a26c8608",
+        "task": "1624",
+        "time": 1699479820,
+        "key": "359491",
+        "token": false,
+        "score": 100,
+        "extra": [
+            "0",
+            "10",
+            "65",
+            "10",
+            "5",
+            "10"
+        ]
     }
 ]
