@@ -89,12 +89,13 @@ var TimeView = new function () {
 
         // contests are iterated sorted by begin time
         // and the first one that's still running is chosen
+        // modified by SorahISA: pick whatever contest
         for (var j in DataStore.contest_list) {
             var contest = DataStore.contest_list[j];
-            if (cur_time <= contest['end']) {
+            // if (cur_time <= contest['end']) {
                 c = contest;
-                break;
-            }
+                // break;
+            // }
         }
 
         if (c == null) {

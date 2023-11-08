@@ -242,37 +242,37 @@ var UserDetail = new function () {
     };
 
     self.make_submission_table = function (task_id) {
-        var res = " \
-<table> \
-    <thead> \
-        <tr> \
-            <td>Time</td> \
-            <td>Score</td> \
-            <td>Token</td> \
-            " + (DataStore.tasks[task_id]['extra_headers'].length > 0 ? "<td>" + DataStore.tasks[task_id]['extra_headers'].join("</td><td>") + "</td>" : "") + " \
-        </tr> \
-    </thead> \
-    <tbody>";
+                var res = " \
+        <table> \
+            <thead> \
+                <tr> \
+                    <td>Time</td> \
+                    <td>Score</td> \
+                    <td>Token</td> \
+                    " + (DataStore.tasks[task_id]['extra_headers'].length > 0 ? "<td>" + DataStore.tasks[task_id]['extra_headers'].join("</td><td>") + "</td>" : "") + " \
+                </tr> \
+            </thead> \
+            <tbody>";
 
-        if (self.submissions[task_id].length == 0) {
-            res += " \
-        <tr> \
-            <td colspan=\"" + (3 + DataStore.tasks[task_id]['extra_headers'].length) + "\">no submissions</td> \
-        </tr>";
-        } else {
-            for (var i in self.submissions[task_id]) {
-                var submission = self.submissions[task_id][i];
-                time = submission["time"] - DataStore.contests[DataStore.tasks[task_id]["contest"]]["begin"];
-                time = format_time(time);
-                res += " \
-        <tr> \
-            <td>" + time + "</td> \
-            <td>" + round_to_str(submission['score'], DataStore.tasks[task_id]['score_precision']) + "</td> \
-            <td>" + (submission["token"] ? 'Yes' : 'No') + "</td> \
-            " + (submission["extra"].length > 0 ? "<td>" + submission["extra"].join("</td><td>") + "</td>" : "") + " \
-        </tr>";
-            }
-        }
+                if (self.submissions[task_id].length == 0) {
+                    res += " \
+                <tr> \
+                    <td colspan=\"" + (3 + DataStore.tasks[task_id]['extra_headers'].length) + "\">no submissions</td> \
+                </tr>";
+                } else {
+                    for (var i in self.submissions[task_id]) {
+                        var submission = self.submissions[task_id][i];
+                        time = submission["time"] - DataStore.contests[DataStore.tasks[task_id]["contest"]]["begin"];
+                        time = format_time(time);
+                        res += " \
+                        <tr> \
+                            <td><a href='https://oj.nctu.edu.tw/submissions/" + submission["key"] + "/' target='_blank'>" + time + "</a></td> \
+                            <td>" + round_to_str(submission['score'], DataStore.tasks[task_id]['score_precision']) + "</td> \
+                            <td>" + (submission["token"] ? 'Yes' : 'No') + "</td> \
+                            " + (submission["extra"].length > 0 ? "<td>" + submission["extra"].join("</td><td>") + "</td>" : "") + " \
+                        </tr>";
+                    }
+                }
         res += " \
     </tbody> \
 </table>";
