@@ -154,7 +154,8 @@ var Scoreboard = new function () {
 <col class=\"sel\"/> \
 <col class=\"rank\"/> \
 <col class=\"f_name\"/> <col/><col/><col/><col/><col/><col/><col/><col/><col/> \
-<col class=\"l_name\"/> <col/><col/><col/><col/><col/><col/><col/><col/><col/>";
+<col class=\"l_name\"/> <col/><col/><col/><col/><col/><col/><col/><col/><col/> \
+<col class=\"team\"/>";
 
         var contests = DataStore.contest_list;
         for (var i in contests) {
@@ -174,6 +175,8 @@ var Scoreboard = new function () {
 <col class=\"score contest\" data-contest=\"" + c_id + "\" data-sort_key=\"c_" + c_id + "\"/> <col/><col/><col/>";
         }
 
+        result += " \
+<col class=\"score global\" data-sort_key=\"global\"/> <col/><col/><col/><col/>";
 
         return result;
     };
@@ -186,7 +189,8 @@ var Scoreboard = new function () {
     <th class=\"sel\"></th> \
     <th class=\"rank\">Rank</th> \
     <th colspan=\"10\" class=\"f_name\">Student ID</th> \
-    <th colspan=\"10\" class=\"l_name\">Nickname</th>";
+    <th colspan=\"10\" class=\"l_name\">Nickname</th> \
+    <th class=\"team\">Team</th>";
 
         var contests = DataStore.contest_list;
         for (var i in contests) {
@@ -206,6 +210,9 @@ var Scoreboard = new function () {
     <th colspan=\"4\" class=\"score contest\" data-contest=\"" + c_id + "\" data-sort_key=\"c_" + c_id + "\"><abbr title=\"" + escapeHTML(contest["name"]) + "\">" + escapeHTML(contest["name"]) + "</abbr></th>";
         }
 
+        result += " \
+    <th colspan=\"5\" class=\"score global\" data-sort_key=\"global\">Global</th> \
+</tr>";
 
         return result;
     };
@@ -231,6 +238,13 @@ var Scoreboard = new function () {
     <td colspan=\"10\" class=\"f_name\">" + escapeHTML(user["f_name"]) + "</td> \
     <td colspan=\"10\" class=\"l_name\">" + escapeHTML(user["l_name"]) + "</td>";
 
+        if (user['team']) {
+            result += " \
+    <td class=\"team\"><img src=\"" + Config.get_flag_url(user["team"]) + "\" title=\"" + DataStore.teams[user["team"]]["name"] + "\" /></td>";
+        } else {
+            result += " \
+    <td class=\"team\"></td>";
+        }
 
         var contests = DataStore.contest_list;
         for (var i in contests) {
@@ -251,6 +265,11 @@ var Scoreboard = new function () {
             result += " \
     <td colspan=\"4\" class=\"score contest " + score_class + "\" data-contest=\"" + c_id + "\" data-sort_key=\"c_" + c_id + "\">" + round_to_str(user["c_" + c_id], contest["score_precision"]) + "</td>";
         }
+
+        var score_class = self.get_score_class(user["global"], DataStore.global_max_score);
+        result += " \
+    <td colspan=\"5\" class=\"score global " + score_class + "\" data-sort_key=\"global\">" + round_to_str(user["global"], DataStore.global_score_precision) + "</td> \
+</tr>";
 
         return result;
     };
@@ -387,6 +406,11 @@ var Scoreboard = new function () {
         $row.children("td.f_name").text(user["f_name"]);
         $row.children("td.l_name").text(user["l_name"]);
 
+        if (user["team"]) {
+            $row.children(".team").html("<img src=\"" + Config.get_flag_url(user["team"]) + "\" title=\"" + DataStore.teams[user["team"]]["name"] + "\" />");
+        } else {
+            $row.children(".team").text("");
+        }
     };
 
 
