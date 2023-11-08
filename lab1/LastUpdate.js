@@ -1,1 +1,1 @@
-const last_update = "2023/11/09 01:01"
+const last_update = "Final Scoreboard"
