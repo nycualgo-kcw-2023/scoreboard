@@ -283,5 +283,44 @@
             "0",
             "0"
         ]
+    },
+    {
+        "user": "c0ef7d2eff3ecaca1b22f4c8a26c8608",
+        "task": "1631",
+        "time": 1699897166,
+        "key": "361389",
+        "token": false,
+        "score": 40,
+        "extra": [
+            "0",
+            "40",
+            "0"
+        ]
+    },
+    {
+        "user": "c0ef7d2eff3ecaca1b22f4c8a26c8608",
+        "task": "1631",
+        "time": 1699897274,
+        "key": "361392",
+        "token": false,
+        "score": 100,
+        "extra": [
+            "0",
+            "40",
+            "60"
+        ]
+    },
+    {
+        "user": "c0ef7d2eff3ecaca1b22f4c8a26c8608",
+        "task": "1631",
+        "time": 1699897618,
+        "key": "361394",
+        "token": false,
+        "score": 100,
+        "extra": [
+            "0",
+            "40",
+            "60"
+        ]
     }
 ]
