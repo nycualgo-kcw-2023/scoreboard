@@ -22,15 +22,17 @@
         "max_score": 100,
         "extra_headers": [
             "Sample",
-            "Subtask 1 (40)",
-            "Subtask 2 (60)"
+            "Subtask 1 (30)",
+            "Subtask 2 (20)",
+            "Subtask 3 (35)",
+            "Subtask 4 (15)"
         ],
         "order": 1,
         "score_mode": "max_subtask",
         "score_precision": 0
     },
     "1632": {
-        "name": "pecola",
+        "name": "Pecola or Treat",
         "short_name": "C",
         "contest": "lab3",
         "max_score": 100,

@@ -31,45 +31,6 @@
     },
     {
         "user": "cf7a0da5a878ab28b068ae5e2db8b379",
-        "task": "1631",
-        "time": 1699111939,
-        "key": "357301",
-        "token": false,
-        "score": 0,
-        "extra": [
-            "0",
-            "0",
-            "0"
-        ]
-    },
-    {
-        "user": "cf7a0da5a878ab28b068ae5e2db8b379",
-        "task": "1631",
-        "time": 1699113426,
-        "key": "357318",
-        "token": false,
-        "score": 0,
-        "extra": [
-            "0",
-            "0",
-            "0"
-        ]
-    },
-    {
-        "user": "cf7a0da5a878ab28b068ae5e2db8b379",
-        "task": "1631",
-        "time": 1699114387,
-        "key": "357326",
-        "token": false,
-        "score": 100,
-        "extra": [
-            "0",
-            "40",
-            "60"
-        ]
-    },
-    {
-        "user": "cf7a0da5a878ab28b068ae5e2db8b379",
         "task": "1630",
         "time": 1699175189,
         "key": "357589",

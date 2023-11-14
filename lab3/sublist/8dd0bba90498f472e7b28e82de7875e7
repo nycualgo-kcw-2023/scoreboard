@@ -1,45 +1,6 @@
 [
     {
         "user": "8dd0bba90498f472e7b28e82de7875e7",
-        "task": "1631",
-        "time": 1699798252,
-        "key": "360736",
-        "token": false,
-        "score": 0,
-        "extra": [
-            "0",
-            "0",
-            "0"
-        ]
-    },
-    {
-        "user": "8dd0bba90498f472e7b28e82de7875e7",
-        "task": "1631",
-        "time": 1699799573,
-        "key": "360755",
-        "token": false,
-        "score": 0,
-        "extra": [
-            "0",
-            "0",
-            "0"
-        ]
-    },
-    {
-        "user": "8dd0bba90498f472e7b28e82de7875e7",
-        "task": "1631",
-        "time": 1699801780,
-        "key": "360774",
-        "token": false,
-        "score": 100,
-        "extra": [
-            "0",
-            "40",
-            "60"
-        ]
-    },
-    {
-        "user": "8dd0bba90498f472e7b28e82de7875e7",
         "task": "1633",
         "time": 1699812909,
         "key": "360861",
