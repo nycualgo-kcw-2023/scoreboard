@@ -1,0 +1,124 @@
+{
+    "1640": {
+        "name": "Group Assignments",
+        "short_name": "A",
+        "contest": "lab4",
+        "max_score": 100,
+        "extra_headers": [
+            "Sample",
+            "Subtask 1 (20)",
+            "Subtask 2 (20)",
+            "Subtask 3 (20)",
+            "Subtask 4 (20)",
+            "Subtask 5 (20)"
+        ],
+        "order": 0,
+        "score_mode": "max_subtask",
+        "score_precision": 0
+    },
+    "1641": {
+        "name": "Knapsack Problem (Real)",
+        "short_name": "B",
+        "contest": "lab4",
+        "max_score": 100,
+        "extra_headers": [
+            "Sample",
+            "Subtask 1 (25)",
+            "Subtask 2 (35)",
+            "Subtask 3 (15)",
+            "Subtask 4 (10)",
+            "Subtask 5 (10)",
+            "Subtask 6 (5)"
+        ],
+        "order": 1,
+        "score_mode": "max_subtask",
+        "score_precision": 0
+    },
+    "1642": {
+        "name": "Longest Common Subsequence",
+        "short_name": "C",
+        "contest": "lab4",
+        "max_score": 100,
+        "extra_headers": [
+            "Sample",
+            "Subtask 1 (20)",
+            "Subtask 2 (60)",
+            "Subtask 3 (10)",
+            "Subtask 4 (10)"
+        ],
+        "order": 2,
+        "score_mode": "max_subtask",
+        "score_precision": 0
+    },
+    "1643": {
+        "name": "Longest Increasing Subsequence",
+        "short_name": "D",
+        "contest": "lab4",
+        "max_score": 100,
+        "extra_headers": [
+            "Sample",
+            "Subtask 1 (10)",
+            "Subtask 2 (20)",
+            "Subtask 3 (35)",
+            "Subtask 4 (25)",
+            "Subtask 5 (10)"
+        ],
+        "order": 3,
+        "score_mode": "max_subtask",
+        "score_precision": 0
+    },
+    "1644": {
+        "name": "Maximum Sum Path",
+        "short_name": "E",
+        "contest": "lab4",
+        "max_score": 100,
+        "extra_headers": [
+            "Sample",
+            "Subtask 1 (15)",
+            "Subtask 2 (40)",
+            "Subtask 3 (45)"
+        ],
+        "order": 4,
+        "score_mode": "max_subtask",
+        "score_precision": 0
+    },
+    "1645": {
+        "name": "Counting Paths on a Graph",
+        "short_name": "F",
+        "contest": "lab4",
+        "max_score": 100,
+        "extra_headers": [
+            "Sample",
+            "Subtask 1 (10)",
+            "Subtask 2 (10)",
+            "Subtask 3 (20)",
+            "Subtask 4 (20)",
+            "Subtask 5 (20)",
+            "Subtask 6 (10)",
+            "Subtask 7 (10)"
+        ],
+        "order": 5,
+        "score_mode": "max_subtask",
+        "score_precision": 0
+    },
+    "1646": {
+        "name": "Rod Cutting",
+        "short_name": "G",
+        "contest": "lab4",
+        "max_score": 100,
+        "extra_headers": [
+            "Sample",
+            "Subtask 1 (20)",
+            "Subtask 2 (20)",
+            "Subtask 3 (15)",
+            "Subtask 4 (15)",
+            "Subtask 5 (10)",
+            "Subtask 6 (10)",
+            "Subtask 7 (5)",
+            "Subtask 8 (5)"
+        ],
+        "order": 6,
+        "score_mode": "max_subtask",
+        "score_precision": 0
+    }
+}
