@@ -1,6 +1,18 @@
 [
     {
         "user": "8364f69f51d3f1cce7f5a88fbaec6ef9",
+        "task": "1606",
+        "time": 1695560581,
+        "key": "335670",
+        "token": false,
+        "score": 0,
+        "extra": [
+            "0",
+            "0"
+        ]
+    },
+    {
+        "user": "8364f69f51d3f1cce7f5a88fbaec6ef9",
         "task": "1600",
         "time": 1695704201,
         "key": "337039",
@@ -10,18 +22,6 @@
             "0",
             "50",
             "50"
-        ]
-    },
-    {
-        "user": "8364f69f51d3f1cce7f5a88fbaec6ef9",
-        "task": "1606",
-        "time": 1695560581,
-        "key": "335670",
-        "token": false,
-        "score": 0,
-        "extra": [
-            "0",
-            "0"
         ]
     }
 ]
