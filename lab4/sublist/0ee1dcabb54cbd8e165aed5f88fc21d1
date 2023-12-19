@@ -758,5 +758,50 @@
             "0",
             "0"
         ]
+    },
+    {
+        "user": "0ee1dcabb54cbd8e165aed5f88fc21d1",
+        "task": "1642",
+        "time": 1702969440,
+        "key": "379476",
+        "token": false,
+        "score": 0,
+        "extra": [
+            "0",
+            "0",
+            "0",
+            "0",
+            "0"
+        ]
+    },
+    {
+        "user": "0ee1dcabb54cbd8e165aed5f88fc21d1",
+        "task": "1642",
+        "time": 1702969574,
+        "key": "379478",
+        "token": false,
+        "score": 0,
+        "extra": [
+            "0",
+            "0",
+            "0",
+            "0",
+            "0"
+        ]
+    },
+    {
+        "user": "0ee1dcabb54cbd8e165aed5f88fc21d1",
+        "task": "1642",
+        "time": 1702969797,
+        "key": "379479",
+        "token": false,
+        "score": 80,
+        "extra": [
+            "0",
+            "20",
+            "60",
+            "0",
+            "0"
+        ]
     }
 ]
