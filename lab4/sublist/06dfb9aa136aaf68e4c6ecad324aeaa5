@@ -482,5 +482,35 @@
             "20",
             "20"
         ]
+    },
+    {
+        "user": "06dfb9aa136aaf68e4c6ecad324aeaa5",
+        "task": "1642",
+        "time": 1703318430,
+        "key": "382194",
+        "token": false,
+        "score": 0,
+        "extra": [
+            "0",
+            "0",
+            "0",
+            "0",
+            "0"
+        ]
+    },
+    {
+        "user": "06dfb9aa136aaf68e4c6ecad324aeaa5",
+        "task": "1642",
+        "time": 1703319363,
+        "key": "382199",
+        "token": false,
+        "score": 80,
+        "extra": [
+            "0",
+            "20",
+            "60",
+            "0",
+            "0"
+        ]
     }
 ]
