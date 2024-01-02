@@ -939,5 +939,103 @@
             "40",
             "0"
         ]
+    },
+    {
+        "user": "06dfb9aa136aaf68e4c6ecad324aeaa5",
+        "task": "1644",
+        "time": 1704203539,
+        "key": "384943",
+        "token": false,
+        "score": 55,
+        "extra": [
+            "0",
+            "15",
+            "40",
+            "0"
+        ]
+    },
+    {
+        "user": "06dfb9aa136aaf68e4c6ecad324aeaa5",
+        "task": "1644",
+        "time": 1704203763,
+        "key": "384948",
+        "token": false,
+        "score": 55,
+        "extra": [
+            "0",
+            "15",
+            "40",
+            "0"
+        ]
+    },
+    {
+        "user": "06dfb9aa136aaf68e4c6ecad324aeaa5",
+        "task": "1644",
+        "time": 1704203822,
+        "key": "384950",
+        "token": false,
+        "score": 55,
+        "extra": [
+            "0",
+            "15",
+            "40",
+            "0"
+        ]
+    },
+    {
+        "user": "06dfb9aa136aaf68e4c6ecad324aeaa5",
+        "task": "1644",
+        "time": 1704203976,
+        "key": "384953",
+        "token": false,
+        "score": 55,
+        "extra": [
+            "0",
+            "15",
+            "40",
+            "0"
+        ]
+    },
+    {
+        "user": "06dfb9aa136aaf68e4c6ecad324aeaa5",
+        "task": "1644",
+        "time": 1704204069,
+        "key": "384956",
+        "token": false,
+        "score": 55,
+        "extra": [
+            "0",
+            "15",
+            "40",
+            "0"
+        ]
+    },
+    {
+        "user": "06dfb9aa136aaf68e4c6ecad324aeaa5",
+        "task": "1644",
+        "time": 1704205985,
+        "key": "384991",
+        "token": false,
+        "score": 0,
+        "extra": [
+            "0",
+            "0",
+            "0",
+            "0"
+        ]
+    },
+    {
+        "user": "06dfb9aa136aaf68e4c6ecad324aeaa5",
+        "task": "1644",
+        "time": 1704206847,
+        "key": "385007",
+        "token": false,
+        "score": 100,
+        "extra": [
+            "0",
+            "15",
+            "40",
+            "45"
+        ]
     }
 ]
