@@ -1,0 +1,72 @@
+[
+    {
+        "user": "dc17150c9e6d94fd2137b37cf644e6ad",
+        "task": "1650",
+        "time": 1703752306,
+        "key": "382764",
+        "token": false,
+        "score": 70,
+        "extra": [
+            "0",
+            "5",
+            "65",
+            "0"
+        ]
+    },
+    {
+        "user": "dc17150c9e6d94fd2137b37cf644e6ad",
+        "task": "1650",
+        "time": 1703757212,
+        "key": "382803",
+        "token": false,
+        "score": 5,
+        "extra": [
+            "0",
+            "5",
+            "0",
+            "0"
+        ]
+    },
+    {
+        "user": "dc17150c9e6d94fd2137b37cf644e6ad",
+        "task": "1650",
+        "time": 1703757730,
+        "key": "382809",
+        "token": false,
+        "score": 5,
+        "extra": [
+            "0",
+            "5",
+            "0",
+            "0"
+        ]
+    },
+    {
+        "user": "dc17150c9e6d94fd2137b37cf644e6ad",
+        "task": "1650",
+        "time": 1703759677,
+        "key": "382814",
+        "token": false,
+        "score": 5,
+        "extra": [
+            "0",
+            "5",
+            "0",
+            "0"
+        ]
+    },
+    {
+        "user": "dc17150c9e6d94fd2137b37cf644e6ad",
+        "task": "1650",
+        "time": 1703759952,
+        "key": "382820",
+        "token": false,
+        "score": 100,
+        "extra": [
+            "0",
+            "5",
+            "65",
+            "30"
+        ]
+    }
+]

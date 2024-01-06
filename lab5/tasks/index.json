@@ -1,0 +1,84 @@
+{
+    "1650": {
+        "name": "Long Long Mouse",
+        "short_name": "A",
+        "contest": "lab5",
+        "max_score": 100,
+        "extra_headers": [
+            "Sample",
+            "Subtask 1 (5)",
+            "Subtask 2 (65)",
+            "Subtask 3 (30)"
+        ],
+        "order": 0,
+        "score_mode": "max_subtask",
+        "score_precision": 0
+    },
+    "1651": {
+        "name": "Amusement Park",
+        "short_name": "B",
+        "contest": "lab5",
+        "max_score": 100,
+        "extra_headers": [
+            "Sample",
+            "Subtask 1 (15)",
+            "Subtask 2 (15)",
+            "Subtask 3 (40)",
+            "Subtask 4 (30)"
+        ],
+        "order": 1,
+        "score_mode": "max_subtask",
+        "score_precision": 0
+    },
+    "1652": {
+        "name": "Skybound Adventure: Johnson's Glider Quest",
+        "short_name": "C",
+        "contest": "lab5",
+        "max_score": 100,
+        "extra_headers": [
+            "Sample",
+            "Subtask 1 (25)",
+            "Subtask 2 (5)",
+            "Subtask 3 (20)",
+            "Subtask 4 (20)",
+            "Subtask 5 (30)"
+        ],
+        "order": 2,
+        "score_mode": "max_subtask",
+        "score_precision": 0
+    },
+    "1653": {
+        "name": "Johnson's Algorithm",
+        "short_name": "D",
+        "contest": "lab5",
+        "max_score": 100,
+        "extra_headers": [
+            "Sample",
+            "Subtask 1 (15)",
+            "Subtask 2 (15)",
+            "Subtask 3 (15)",
+            "Subtask 4 (15)",
+            "Subtask 5 (20)",
+            "Subtask 6 (20)"
+        ],
+        "order": 3,
+        "score_mode": "max_subtask",
+        "score_precision": 0
+    },
+    "1654": {
+        "name": "Power System",
+        "short_name": "E",
+        "contest": "lab5",
+        "max_score": 100,
+        "extra_headers": [
+            "Sample",
+            "Subtask 1 (30)",
+            "Subtask 2 (15)",
+            "Subtask 3 (25)",
+            "Subtask 4 (30)"
+        ],
+        "order": 4,
+        "score_mode": "max_subtask",
+        "score_precision": 0
+    }
+}
