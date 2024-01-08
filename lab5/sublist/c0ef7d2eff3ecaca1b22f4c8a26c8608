@@ -1,1 +1,83 @@
-[]
+[
+    {
+        "user": "c0ef7d2eff3ecaca1b22f4c8a26c8608",
+        "task": "1654",
+        "time": 1704716087,
+        "key": "387645",
+        "token": false,
+        "score": 100,
+        "extra": [
+            "0",
+            "30",
+            "15",
+            "25",
+            "30"
+        ]
+    },
+    {
+        "user": "c0ef7d2eff3ecaca1b22f4c8a26c8608",
+        "task": "1654",
+        "time": 1704718932,
+        "key": "387681",
+        "token": false,
+        "score": 100,
+        "extra": [
+            "0",
+            "30",
+            "15",
+            "25",
+            "30"
+        ]
+    },
+    {
+        "user": "c0ef7d2eff3ecaca1b22f4c8a26c8608",
+        "task": "1653",
+        "time": 1704722518,
+        "key": "387726",
+        "token": false,
+        "score": 0,
+        "extra": [
+            "0",
+            "0",
+            "0",
+            "0",
+            "0",
+            "0",
+            "0"
+        ]
+    },
+    {
+        "user": "c0ef7d2eff3ecaca1b22f4c8a26c8608",
+        "task": "1653",
+        "time": 1704724758,
+        "key": "387768",
+        "token": false,
+        "score": 0,
+        "extra": [
+            "0",
+            "0",
+            "0",
+            "0",
+            "0",
+            "0",
+            "0"
+        ]
+    },
+    {
+        "user": "c0ef7d2eff3ecaca1b22f4c8a26c8608",
+        "task": "1653",
+        "time": 1704725648,
+        "key": "387780",
+        "token": false,
+        "score": 0,
+        "extra": [
+            "0",
+            "0",
+            "0",
+            "0",
+            "0",
+            "0",
+            "0"
+        ]
+    }
+]
